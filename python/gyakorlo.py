@@ -47,6 +47,16 @@ elif 70<=x<85:
 elif x>=85:
     print('Jeles')           
 '''
+#Negyedik feladat
+'''
+szam1 = int(input('Kérek egy egész számot:'))
 
+if (szam1 % 3 == 0):
+    print('Osztható 3-mal')
+elif (szam1 % 5 == 0):
+    print('Osztható 5-tel')
+else:
+    print('Nem osztható egyik el sem')        
+'''
 
 
