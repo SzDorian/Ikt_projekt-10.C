@@ -58,5 +58,26 @@ elif (szam1 % 5 == 0):
 else:
     print('Nem osztható egyik el sem')        
 '''
+#Ötödik feladat
+'''
+szam1 = int(input('Kérek egy szmáot: '))
+szam2 = int(input('Kérek egy másik számot: '))
+szam3 = int(input('Kérek  egy harmadik számot számot: '))
+if szam1 + szam2  szam3:
+    print("Első szám + második szám",szam3)
+if szam1 + szam3 = szam2:
+    print("Első szám + harmadik szám",szam3)
+if szam2 + szam3 = szam1:
+    print("Másodi szám + harmadik szám",szam3)
+'''
+# Hadodik feladat
 
+""""
+szam1 = int(input('Kérek egy számot: '))
+szam2 = int(input('Kérek egy másik számot: '))
+szam3 = int(input('Kérek  egy harmadik számot számot: '))
+if szam1 % 2 == 0 and szam2 % 2 == 0 and  szam3 % 2 == 0:
+    print('Igen')
+else:
+    print('Nem ')"""    
 
