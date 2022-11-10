@@ -81,3 +81,10 @@ if szam1 % 2 == 0 and szam2 % 2 == 0 and  szam3 % 2 == 0:
 else:
     print('Nem ')"""    
 
+# Hetedik feladat
+
+
+
+
+
+
