@@ -1,3 +1,4 @@
+
 #Első feladat
 '''
 a = input('Milyen napod van ?')
@@ -22,4 +23,25 @@ else:
 '''    
 #--------------------------------------
 
+#Harmadik feladat
+'''
+gondolt = 3
+
+szam1 = int(input('Kérek egy számot 1 és 5 között:'))
+
+if gondolt == szam1:
+    print('Egyenlő a két szám')
+elif gondolt < szam1:
+    print('A tippelt szám nagyobb ') 
+elif gondolt > szam1:
+    print('A gondolt szám nagyobb')      
+'''
+#----------------------------------------------------
+#----------------------------------------------------
+
+#Első feladat
+
+for x in range(1,11):
+
+ print(x)
 
