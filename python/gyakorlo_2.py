@@ -40,27 +40,28 @@ elif gondolt > szam1:
 #----------------------------------------------------
 
 #Első feladat
-
-#1Feladat
 """
 for paros in range(11):
     if paros % 2 ==  0:
         print(paros)"""
+#----------------------------------------------------
 
-#2Feladat
+#Második Feladat
 """
 for x in range(1, 11):
     x -=11
     print(abs(x))"""
+#-----------------------------------------------------
 
-#3Feladat
+#Három Feladat
 """
 for x in range(1, 11):
     if x % 2 == 0:
         x -=11
         print(abs(x))"""
+#------------------------------------------------------
 
-#4Feladat
+#Négyes Feladat
 szo = str(input("Kérek egy szót "))
 ker = int(input("Hányszor? "))
 
